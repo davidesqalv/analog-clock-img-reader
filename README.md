@@ -28,6 +28,7 @@ Thresholding
 <img width="360" alt="image" src="https://user-images.githubusercontent.com/83359345/193446815-a328df9d-f87f-439b-8ef6-70248171b04f.png">
 
 Contours are searched and then hands are filtered by area and height in the image
+
 Final print example:
 
 <img width="65" alt="image" src="https://user-images.githubusercontent.com/83359345/193447041-e23e6972-6ea2-42af-b444-f199488a8c37.png">
