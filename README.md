@@ -1,4 +1,4 @@
-# analog-clock-img-reader
+# Analog Clock Time Reader
 Reading the time from an analog clock image with openCV
 
 Simple python script reads only one image, however it can be easily adapted for real-time use
